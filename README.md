@@ -1,5 +1,9 @@
 # Classification-task-for-stroke-prediction
 
+## NOTE
+
+Project version with old dataset
+
 ## Attribute Information
 
 1) id: unique identifier
