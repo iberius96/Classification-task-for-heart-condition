@@ -1,0 +1,19 @@
+name: heart-condition
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - jupyter
+  - jupyterlab
+  - jupytext
+  - pandas
+  - scikit-learn
+  - pip
+  - seaborn
+  - plotly
+  - numpy
+  - pip:
+      - matplotlib
+      - miceforest
+      - sklearn
+      - imblearn
