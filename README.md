@@ -1,3 +1,9 @@
+### Project Rationale and Objective
+
+The initial idea for the development of this projects came from the desire of obtaining a deeper understanding of tree-based algorithms and in how they can be utilized to construct models capable of making predictions in the context of supervised machine learning. One of the best ways to try an have an insight in the inner workings of any algorithm is to make an attempt at the development (from scratch) of a custom version of it. Because of this reason the main focus of this project will be in the development of an implementetion of the CART (Decision Tree) and Random Forest algorithms. Said implementetion will be developed in Python and a baseline will be established using comparable algorithms coming from the Sklearn library in order to assess the general quality of the custom implementetion.
+
+A dataset related to the medical domain (The Cleveland Heart Disease dataset) has been chosen to construct the machine learning models that we are going to use in this project. This particular choice aims at simulating how these types of algorithms could be employed in a real-world scenario. One of the main advantages of tree-based algorithms is their ease of understanding for individuals that are not well versed in the domain of machine learning. The medical field is a perfect example of how Decision Trees could offer an easily understandable solution for medical professionals seeking for help in spotting patients at risk of having an heart condition.
+
 ### Brief Description
 
 The dataset used in this project is the Cleveland Heart Disease dataset originally published in the UCI Machine Learning Repository. The dataset contains a snapshot of the clinical profile on admission to the hospital of more than 300 patients, together with a label indicating if an heart condition was discovered after admission.
